@@ -1,0 +1,2698 @@
+canonical_identifier: bkk:krp/KR6v0533/GA/v1
+canonical_location: https://kanripo.org/bkk/KR6v0533/GA/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 鶴林寺志（釋明賢本）
+  identifiers:
+    krp: KR6v0533
+    cbeta: GA043n0046
+    cbeta_old_id: GA043n0046
+    authorityid: CA0008675
+    json_key: GA0046
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/GA/GA043/GA043n0046.xml
+    old_id: GA043n0046
+  edition:
+    short: GA
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0533_000-GA.yaml, hash: 'sha256:b2033ff5c8332d0c34668e9128a914117ede377017c8c523ceebfde357d39803'}
+  - {seq: 1, filename: KR6v0533_001-GA.yaml, hash: 'sha256:b1f1edd127cfb8b3b88b8512cd6970aa16247319e08c17731fc759d1cc29a270'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0533_000-GA.markers.yaml, hash: 'sha256:dc2e51bd3e82ebd9ec5f7470d1be8adc9eeb5a68fabf701039a773230c7ecf64'}
+  - {seq: 1, role: markers, filename: assets/KR6v0533_001-GA.markers.yaml, hash: 'sha256:0e17cbd42230df0456687dd4a739d67998a74e79954cf99cb332adf0a7fbd130'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0533_GA_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 版本說明
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0533_GA_000-mulu-2
+    span:
+    - front
+    - 547
+    - 547
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0533_GA_000-mulu-3
+    span:
+    - front
+    - 1046
+    - 1046
+  label: 目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-juan-start
+    span:
+    - body
+    - 0
+    - 26497
+  label: 鶴林寺志
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-1
+    span:
+    - body
+    - 28
+    - 28
+  label: 山川
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-2
+    span:
+    - body
+    - 30
+    - 30
+  label: 黃鶴山
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-3
+    span:
+    - body
+    - 194
+    - 194
+  label: 磨笄山
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-4
+    span:
+    - body
+    - 217
+    - 217
+  label: 胡蜂嶺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-5
+    span:
+    - body
+    - 231
+    - 231
+  label: 萬松岡
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-6
+    span:
+    - body
+    - 284
+    - 284
+  label: 龍目湖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-7
+    span:
+    - body
+    - 397
+    - 397
+  label: 秦潭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-8
+    span:
+    - body
+    - 461
+    - 461
+  label: 愛蓮池
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-9
+    span:
+    - body
+    - 533
+    - 533
+  label: 荷香池
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-10
+    span:
+    - body
+    - 554
+    - 554
+  label: 白蓮池
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-11
+    span:
+    - body
+    - 581
+    - 581
+  label: 寄奴泉
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-12
+    span:
+    - body
+    - 618
+    - 618
+  label: 逆流泉
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-13
+    span:
+    - body
+    - 649
+    - 649
+  label: 珍珠泉
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-14
+    span:
+    - body
+    - 680
+    - 680
+  label: 蓮花洞
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-15
+    span:
+    - body
+    - 717
+    - 717
+  label: 建置
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-16
+    span:
+    - body
+    - 737
+    - 737
+  label: 鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-17
+    span:
+    - body
+    - 964
+    - 964
+  label: 妙喜堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-18
+    span:
+    - body
+    - 988
+    - 988
+  label: 天雨寳華堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-19
+    span:
+    - body
+    - 1006
+    - 1006
+  label: 圓音堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-20
+    span:
+    - body
+    - 1023
+    - 1023
+  label: 積弩堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-21
+    span:
+    - body
+    - 1035
+    - 1035
+  label: 壽涯方丈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-22
+    span:
+    - body
+    - 1068
+    - 1068
+  label: 濂溪祠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-23
+    span:
+    - body
+    - 1137
+    - 1137
+  label: 陸秀夫祠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-24
+    span:
+    - body
+    - 1148
+    - 1148
+  label: 米元章護伽藍神祠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-25
+    span:
+    - body
+    - 1156
+    - 1156
+  label: 張王廟
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-26
+    span:
+    - body
+    - 1217
+    - 1217
+  label: 丹徒宮
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-27
+    span:
+    - body
+    - 1241
+    - 1241
+  label: 竹林精舍
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-28
+    span:
+    - body
+    - 1264
+    - 1264
+  label: 郗鑒宅
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-29
+    span:
+    - body
+    - 1276
+    - 1276
+  label: 刁勰宅
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-30
+    span:
+    - body
+    - 1284
+    - 1284
+  label: 曾布宅
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-31
+    span:
+    - body
+    - 1292
+    - 1292
+  label: 米芾宅
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-32
+    span:
+    - body
+    - 1375
+    - 1375
+  label: 光風霽月亭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-33
+    span:
+    - body
+    - 1435
+    - 1435
+  label: 南山亭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-34
+    span:
+    - body
+    - 1467
+    - 1467
+  label: 荷香亭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-35
+    span:
+    - body
+    - 1484
+    - 1484
+  label: 杜鵑臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-36
+    span:
+    - body
+    - 1529
+    - 1529
+  label: 昇仙橋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-37
+    span:
+    - body
+    - 1545
+    - 1545
+  label: 馬玄素禪師塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-38
+    span:
+    - body
+    - 1568
+    - 1568
+  label: 米光輔墓
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-39
+    span:
+    - body
+    - 1572
+    - 1572
+  label: 米元章墓
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-40
+    span:
+    - body
+    - 1638
+    - 1638
+  label: 山界
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-41
+    span:
+    - body
+    - 1683
+    - 1683
+  label: 田土
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-42
+    span:
+    - body
+    - 2504
+    - 2504
+  label: 碑銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-43
+    span:
+    - body
+    - 2510
+    - 2510
+  label: 唐
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-44
+    span:
+    - body
+    - 2510
+    - 2510
+  label: 唐潤州鶴林寺開山大津法照馬素禪師塔銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-45
+    span:
+    - body
+    - 4931
+    - 4931
+  label: 宋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-46
+    span:
+    - body
+    - 4931
+    - 4931
+  label: 米元章墓志銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-47
+    span:
+    - body
+    - 6253
+    - 6253
+  label: 明
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-48
+    span:
+    - body
+    - 6253
+    - 6253
+  label: 鶴林十三松銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-49
+    span:
+    - body
+    - 6389
+    - 6389
+  label: 明鶴林寺一宗禪師塔銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-50
+    span:
+    - body
+    - 6876
+    - 6876
+  label: 古碣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-51
+    span:
+    - body
+    - 6878
+    - 6878
+  label: 宋高宗宸翰碑七通
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-52
+    span:
+    - body
+    - 7103
+    - 7103
+  label: 觀音碑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-53
+    span:
+    - body
+    - 7853
+    - 7853
+  label: 塔額
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-54
+    span:
+    - body
+    - 7939
+    - 7939
+  label: 高僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-55
+    span:
+    - body
+    - 7945
+    - 7945
+  label: 唐
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-56
+    span:
+    - body
+    - 7945
+    - 7945
+  label: 開山馬素禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-57
+    span:
+    - body
+    - 8158
+    - 8158
+  label: 黑漆光菩薩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-58
+    span:
+    - body
+    - 8322
+    - 8322
+  label: 國一欽禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-59
+    span:
+    - body
+    - 8360
+    - 8360
+  label: 建法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-60
+    span:
+    - body
+    - 8382
+    - 8382
+  label: 夾山禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-61
+    span:
+    - body
+    - 8397
+    - 8397
+  label: 宋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-62
+    span:
+    - body
+    - 8397
+    - 8397
+  label: 壽涯禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-63
+    span:
+    - body
+    - 8447
+    - 8447
+  label: 聰禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-64
+    span:
+    - body
+    - 8487
+    - 8487
+  label: 慶清師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-65
+    span:
+    - body
+    - 8499
+    - 8499
+  label: 元
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-66
+    span:
+    - body
+    - 8499
+    - 8499
+  label: 西竺僧法喜
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-67
+    span:
+    - body
+    - 8517
+    - 8517
+  label: 一宗禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-68
+    span:
+    - body
+    - 8702
+    - 8702
+  label: 明
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-69
+    span:
+    - body
+    - 8702
+    - 8702
+  label: 達觀禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-70
+    span:
+    - body
+    - 8733
+    - 8733
+  label: 人物
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-71
+    span:
+    - body
+    - 8739
+    - 8739
+  label: 宋武帝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-72
+    span:
+    - body
+    - 8775
+    - 8775
+  label: 戴顒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-73
+    span:
+    - body
+    - 8996
+    - 8996
+  label: 刁勰
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-74
+    span:
+    - body
+    - 9006
+    - 9006
+  label: 殷七七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-75
+    span:
+    - body
+    - 9040
+    - 9040
+  label: 曾布
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-76
+    span:
+    - body
+    - 9062
+    - 9062
+  label: 周敦頤
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-77
+    span:
+    - body
+    - 9105
+    - 9105
+  label: 米芾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-78
+    span:
+    - body
+    - 9217
+    - 9217
+  label: 楊遵
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-79
+    span:
+    - body
+    - 9245
+    - 9245
+  label: 紀異
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-80
+    span:
+    - body
+    - 9251
+    - 9251
+  label: 寺名緣起
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-81
+    span:
+    - body
+    - 9342
+    - 9342
+  label: 法安伏虎
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-82
+    span:
+    - body
+    - 9544
+    - 9544
+  label: 天花
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-83
+    span:
+    - body
+    - 9592
+    - 9592
+  label: 鶴林杜鵑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-84
+    span:
+    - body
+    - 10125
+    - 10125
+  label: 米元章護法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-85
+    span:
+    - body
+    - 10582
+    - 10582
+  label: 異人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-86
+    span:
+    - body
+    - 10730
+    - 10730
+  label: 陸秀夫祠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-87
+    span:
+    - body
+    - 10895
+    - 10895
+  label: 周寳啟棺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-88
+    span:
+    - body
+    - 11047
+    - 11047
+  label: 附雜紀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-89
+    span:
+    - body
+    - 11050
+    - 11050
+  label: 米元章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-90
+    span:
+    - body
+    - 11137
+    - 11137
+  label: 鶴林寺僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-91
+    span:
+    - body
+    - 11198
+    - 11198
+  label: 孫覿書啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-92
+    span:
+    - body
+    - 11262
+    - 11262
+  label: 釋達觀與金壇王損菴于中甫書
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-93
+    span:
+    - body
+    - 11411
+    - 11411
+  label: 釋永堅與履中書
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-94
+    span:
+    - body
+    - 11495
+    - 11495
+  label: 公堯封與鶴林履中上人書
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-95
+    span:
+    - body
+    - 11678
+    - 11678
+  label: 記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-96
+    span:
+    - body
+    - 11693
+    - 11693
+  label: 鶴林寺興復記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-97
+    span:
+    - body
+    - 12783
+    - 12783
+  label: 鶴林寺畫祖師像記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-98
+    span:
+    - body
+    - 13200
+    - 13200
+  label: 濂溪先生祠記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-99
+    span:
+    - body
+    - 14146
+    - 14146
+  label: 重建濂溪祠并祭田碑記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-100
+    span:
+    - body
+    - 14346
+    - 14346
+  label: 鶴林別業白龍岡記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-101
+    span:
+    - body
+    - 14859
+    - 14859
+  label: 鶴林寺合堂記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-102
+    span:
+    - body
+    - 15711
+    - 15711
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-103
+    span:
+    - body
+    - 15716
+    - 15716
+  label: 賀鶴林素心常上人住持敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-104
+    span:
+    - body
+    - 16112
+    - 16112
+  label: 鶴林履中上人詩序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-105
+    span:
+    - body
+    - 16608
+    - 16608
+  label: 疏文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-106
+    span:
+    - body
+    - 16614
+    - 16614
+  label: 脩鶴林寺疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-107
+    span:
+    - body
+    - 17005
+    - 17005
+  label: 說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-108
+    span:
+    - body
+    - 17010
+    - 17010
+  label: 鶴林寺興廢緣起說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-109
+    span:
+    - body
+    - 17817
+    - 17817
+  label: 詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-110
+    span:
+    - body
+    - 17822
+    - 17822
+  label: 唐
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-111
+    span:
+    - body
+    - 17823
+    - 17823
+  label: 竹林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-112
+    span:
+    - body
+    - 17848
+    - 17848
+  label: 題鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-113
+    span:
+    - body
+    - 17915
+    - 17915
+  label: 鶴林寺崇上人山亭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-114
+    span:
+    - body
+    - 17986
+    - 17986
+  label: 寄江南鶴林寺石氷上人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-115
+    span:
+    - body
+    - 18058
+    - 18058
+  label: 奉倍韋潤州遊鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-116
+    span:
+    - body
+    - 18110
+    - 18110
+  label: 鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-117
+    span:
+    - body
+    - 18156
+    - 18156
+  label: 秋宿鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-118
+    span:
+    - body
+    - 18203
+    - 18203
+  label: 遊鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-119
+    span:
+    - body
+    - 18249
+    - 18249
+  label: 鶴林寺中秋夜翫月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-120
+    span:
+    - body
+    - 18315
+    - 18315
+  label: 竹林寺別友人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-121
+    span:
+    - body
+    - 18379
+    - 18379
+  label: 望鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-122
+    span:
+    - body
+    - 18490
+    - 18490
+  label: 同友生題僧院杜鵑花
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-123
+    span:
+    - body
+    - 18558
+    - 18558
+  label: 題鶴林寺僧室
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-124
+    span:
+    - body
+    - 18594
+    - 18594
+  label: 春晚游鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-125
+    span:
+    - body
+    - 18630
+    - 18630
+  label: 鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-126
+    span:
+    - body
+    - 18663
+    - 18663
+  label: 贈鶴林上人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-127
+    span:
+    - body
+    - 18699
+    - 18699
+  label: 附錄　簡族弟
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-128
+    span:
+    - body
+    - 18737
+    - 18737
+  label: 宋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-129
+    span:
+    - body
+    - 18738
+    - 18738
+  label: 游鶴林寺二首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-130
+    span:
+    - body
+    - 18746
+    - 18746
+  label: 其一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-131
+    span:
+    - body
+    - 18786
+    - 18786
+  label: 其二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-132
+    span:
+    - body
+    - 18828
+    - 18828
+  label: 鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-133
+    span:
+    - body
+    - 18873
+    - 18873
+  label: 鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-134
+    span:
+    - body
+    - 18919
+    - 18919
+  label: 鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-135
+    span:
+    - body
+    - 18965
+    - 18965
+  label: 鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-136
+    span:
+    - body
+    - 19053
+    - 19053
+  label: 同柳子玉游鶴林招隱醉歸呈景純
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-137
+    span:
+    - body
+    - 19125
+    - 19125
+  label: 景純見和次韻贈之
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-138
+    span:
+    - body
+    - 19133
+    - 19133
+  label: 其一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-139
+    span:
+    - body
+    - 19189
+    - 19189
+  label: 其二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-140
+    span:
+    - body
+    - 19247
+    - 19247
+  label: 題鶴林神女
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-141
+    span:
+    - body
+    - 19310
+    - 19310
+  label: 次韻張子野竹林寺二首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-142
+    span:
+    - body
+    - 19323
+    - 19323
+  label: 其一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-143
+    span:
+    - body
+    - 19379
+    - 19379
+  label: 其二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-144
+    span:
+    - body
+    - 19437
+    - 19437
+  label: 寄鶴林辛上人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-145
+    span:
+    - body
+    - 19502
+    - 19502
+  label: 題壽涯菴
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-146
+    span:
+    - body
+    - 19565
+    - 19565
+  label: 次氷壼先生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-147
+    span:
+    - body
+    - 19628
+    - 19628
+  label: 鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-148
+    span:
+    - body
+    - 19662
+    - 19662
+  label: 清明日游鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-149
+    span:
+    - body
+    - 19729
+    - 19729
+  label: 鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-150
+    span:
+    - body
+    - 19792
+    - 19792
+  label: 次前韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-151
+    span:
+    - body
+    - 19856
+    - 19856
+  label: 鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-152
+    span:
+    - body
+    - 19881
+    - 19881
+  label: 鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-153
+    span:
+    - body
+    - 19915
+    - 19915
+  label: 元
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-154
+    span:
+    - body
+    - 19916
+    - 19916
+  label: 病中寄即休上人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-155
+    span:
+    - body
+    - 19966
+    - 19966
+  label: 夏日遊鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-156
+    span:
+    - body
+    - 20012
+    - 20012
+  label: 病中寄了上人二首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-157
+    span:
+    - body
+    - 20020
+    - 20020
+  label: 其一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-158
+    span:
+    - body
+    - 20060
+    - 20060
+  label: 其二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-159
+    span:
+    - body
+    - 20102
+    - 20102
+  label: 寄即休翁
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-160
+    span:
+    - body
+    - 20220
+    - 20220
+  label: 清明遊鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-161
+    span:
+    - body
+    - 20282
+    - 20282
+  label: 寄京口鶴林寺長老了即休
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-162
+    span:
+    - body
+    - 20353
+    - 20353
+  label: 休上人見訪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-163
+    span:
+    - body
+    - 20414
+    - 20414
+  label: 遊鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-164
+    span:
+    - body
+    - 20474
+    - 20474
+  label: 遊鶴林寺，僧送竹笋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-165
+    span:
+    - body
+    - 20537
+    - 20537
+  label: 送鶴林長老胡桃一衷、茶三角
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-166
+    span:
+    - body
+    - 20605
+    - 20605
+  label: 次韻休上人見寄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-167
+    span:
+    - body
+    - 20668
+    - 20668
+  label: 寄朱舜咨、王伯循、了即休
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-168
+    span:
+    - body
+    - 20831
+    - 20831
+  label: 鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-169
+    span:
+    - body
+    - 20866
+    - 20866
+  label: 國朝名宦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-170
+    span:
+    - body
+    - 20870
+    - 20870
+  label: 晚至鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-171
+    span:
+    - body
+    - 20937
+    - 20937
+  label: 鴻鶴山庒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-172
+    span:
+    - body
+    - 21000
+    - 21000
+  label: 陸丞相祠，用許豸史韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-173
+    span:
+    - body
+    - 21065
+    - 21065
+  label: 鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-174
+    span:
+    - body
+    - 21098
+    - 21098
+  label: 鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-175
+    span:
+    - body
+    - 21143
+    - 21143
+  label: 鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-176
+    span:
+    - body
+    - 21189
+    - 21189
+  label: 遊鶴林寺，贈賢上人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-177
+    span:
+    - body
+    - 21256
+    - 21256
+  label: 贈鶴林寺賢上人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-178
+    span:
+    - body
+    - 21322
+    - 21322
+  label: 鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-179
+    span:
+    - body
+    - 21383
+    - 21383
+  label: 次鶴林履中上人韻，兼憶往事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-180
+    span:
+    - body
+    - 21454
+    - 21454
+  label: 遊鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-181
+    span:
+    - body
+    - 21517
+    - 21517
+  label: 鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-182
+    span:
+    - body
+    - 21563
+    - 21563
+  label: 送鶴林寺海禪人南還
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-183
+    span:
+    - body
+    - 21659
+    - 21659
+  label: 弔鶴林廢寺松
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-184
+    span:
+    - body
+    - 21693
+    - 21693
+  label: 送履中歸鶴林
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-185
+    span:
+    - body
+    - 21742
+    - 21742
+  label: 同鶴林履上人圍爐煨芋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-186
+    span:
+    - body
+    - 21780
+    - 21780
+  label: 重過鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-187
+    span:
+    - body
+    - 21828
+    - 21828
+  label: 秋日期李園觀芙蓉不果，因過鶴林，有訪賢上人限韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-188
+    span:
+    - body
+    - 21908
+    - 21908
+  label: 賦得因過竹院逢僧話限韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-189
+    span:
+    - body
+    - 21975
+    - 21975
+  label: 同賦，因過竹院逢僧話限韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-190
+    span:
+    - body
+    - 22045
+    - 22045
+  label: 同賦，因過竹院逢僧話
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-191
+    span:
+    - body
+    - 22113
+    - 22113
+  label: 同賦，因過竹院逢僧話
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-192
+    span:
+    - body
+    - 22181
+    - 22181
+  label: 鶴林寺懷古六首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-193
+    span:
+    - body
+    - 22188
+    - 22188
+  label: 馬祖師塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-194
+    span:
+    - body
+    - 22235
+    - 22235
+  label: 米元章祠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-195
+    span:
+    - body
+    - 22279
+    - 22279
+  label: 竹院
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-196
+    span:
+    - body
+    - 22321
+    - 22321
+  label: 蓮池
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-197
+    span:
+    - body
+    - 22363
+    - 22363
+  label: 杜鵑花
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-198
+    span:
+    - body
+    - 22406
+    - 22406
+  label: 十三松
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-199
+    span:
+    - body
+    - 22449
+    - 22449
+  label: 鶴林寺懷古絕句六首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-200
+    span:
+    - body
+    - 22458
+    - 22458
+  label: 竹院
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-201
+    span:
+    - body
+    - 22488
+    - 22488
+  label: 蓮池
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-202
+    span:
+    - body
+    - 22518
+    - 22518
+  label: 米公祠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-203
+    span:
+    - body
+    - 22549
+    - 22549
+  label: 馬祖師塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-204
+    span:
+    - body
+    - 22581
+    - 22581
+  label: 杜鵑花
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-205
+    span:
+    - body
+    - 22612
+    - 22612
+  label: 十三松
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-206
+    span:
+    - body
+    - 22643
+    - 22643
+  label: 游鶴林寺，贈正上人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-207
+    span:
+    - body
+    - 22694
+    - 22694
+  label: 游鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-208
+    span:
+    - body
+    - 22738
+    - 22738
+  label: 鶴林寺夾竹桃花
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-209
+    span:
+    - body
+    - 22805
+    - 22805
+  label: 鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-210
+    span:
+    - body
+    - 22851
+    - 22851
+  label: 晚過鶴林寺讀履公新春諸作
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-211
+    span:
+    - body
+    - 22923
+    - 22923
+  label: 遊鶴林寺，用壁閒韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-212
+    span:
+    - body
+    - 22989
+    - 22989
+  label: 遊鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-213
+    span:
+    - body
+    - 23053
+    - 23053
+  label: 上巳日集古竹院
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-214
+    span:
+    - body
+    - 23116
+    - 23116
+  label: 遊鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-215
+    span:
+    - body
+    - 23163
+    - 23163
+  label: 集鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-216
+    span:
+    - body
+    - 23210
+    - 23210
+  label: 集鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-217
+    span:
+    - body
+    - 23256
+    - 23256
+  label: 劉汝州邀同集古竹院
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-218
+    span:
+    - body
+    - 23352
+    - 23352
+  label: 上巳次日，同李觀察、童子緩再集古竹院，得雲字
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-219
+    span:
+    - body
+    - 23427
+    - 23427
+  label: 過鶴林聼履中法師講經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-220
+    span:
+    - body
+    - 23496
+    - 23496
+  label: 大雨中，摩鶴林寺古碑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-221
+    span:
+    - body
+    - 23623
+    - 23623
+  label: 題鶴林寺二首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-222
+    span:
+    - body
+    - 23631
+    - 23631
+  label: 其一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-223
+    span:
+    - body
+    - 23687
+    - 23687
+  label: 其二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-224
+    span:
+    - body
+    - 23745
+    - 23745
+  label: 鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-225
+    span:
+    - body
+    - 23790
+    - 23790
+  label: 同雪浪師宿鶴林寺賢公山房
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-226
+    span:
+    - body
+    - 23845
+    - 23845
+  label: 謁米南宮祠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-227
+    span:
+    - body
+    - 23881
+    - 23881
+  label: 得深字
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-228
+    span:
+    - body
+    - 23924
+    - 23924
+  label: 題鶴林下院
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-229
+    span:
+    - body
+    - 23960
+    - 23960
+  label: 夏日過鶴林寺古竹院
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-230
+    span:
+    - body
+    - 24012
+    - 24012
+  label: 夏日過鶴林古竹院
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-231
+    span:
+    - body
+    - 24076
+    - 24076
+  label: 贈鶴林灋先上人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-232
+    span:
+    - body
+    - 24140
+    - 24140
+  label: 送鶴林賢上人歸京口
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-233
+    span:
+    - body
+    - 24208
+    - 24208
+  label: 冒雨遊鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-234
+    span:
+    - body
+    - 24273
+    - 24273
+  label: 鶴林寺訪履中上人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-235
+    span:
+    - body
+    - 24324
+    - 24324
+  label: 鶴林寺夜坐
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-236
+    span:
+    - body
+    - 24360
+    - 24360
+  label: 鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-237
+    span:
+    - body
+    - 24406
+    - 24406
+  label: 鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-238
+    span:
+    - body
+    - 24452
+    - 24452
+  label: 遊鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-239
+    span:
+    - body
+    - 24558
+    - 24558
+  label: 鶴林寺賦得院古深藏竹
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-240
+    span:
+    - body
+    - 24626
+    - 24626
+  label: 鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-241
+    span:
+    - body
+    - 24688
+    - 24688
+  label: 鶴林寺別業
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-242
+    span:
+    - body
+    - 24752
+    - 24752
+  label: 遲丁泰來銓部、眭東蓀太史不至
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-243
+    span:
+    - body
+    - 24823
+    - 24823
+  label: 山窓晝𥨊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-244
+    span:
+    - body
+    - 24854
+    - 24854
+  label: 鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-245
+    span:
+    - body
+    - 24904
+    - 24904
+  label: 題鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-246
+    span:
+    - body
+    - 24953
+    - 24953
+  label: 游鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-247
+    span:
+    - body
+    - 25003
+    - 25003
+  label: 秋日遊鶴林寺有感
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-248
+    span:
+    - body
+    - 25070
+    - 25070
+  label: 竹歌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-249
+    span:
+    - body
+    - 25244
+    - 25244
+  label: 重游鶴林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-250
+    span:
+    - body
+    - 25296
+    - 25296
+  label: 重遊鶴林寺有感
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-251
+    span:
+    - body
+    - 25362
+    - 25362
+  label: 鶴林懷古
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-252
+    span:
+    - body
+    - 25409
+    - 25409
+  label: 夏日同周承明、潘無隱過鶴林懷古，用林字
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-253
+    span:
+    - body
+    - 25485
+    - 25485
+  label: 寄鶴林寺履中
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-254
+    span:
+    - body
+    - 25521
+    - 25521
+  label: 憩鶴林履中上人房
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-255
+    span:
+    - body
+    - 25586
+    - 25586
+  label: 次鶴林懷古
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-256
+    span:
+    - body
+    - 25636
+    - 25636
+  label: 秋日還山漫述
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-257
+    span:
+    - body
+    - 25674
+    - 25674
+  label: 重過鶴林
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-258
+    span:
+    - body
+    - 25742
+    - 25742
+  label: 又過鶴林
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-259
+    span:
+    - body
+    - 25805
+    - 25805
+  label: 寓鶴林感懷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-260
+    span:
+    - body
+    - 25815
+    - 25815
+  label: 其一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-261
+    span:
+    - body
+    - 25871
+    - 25871
+  label: 其二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-262
+    span:
+    - body
+    - 25929
+    - 25929
+  label: 其三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0533_GA_001-mulu-263
+    span:
+    - body
+    - 25987
+    - 25987
+  label: 重修陸丞相祠堂碑記
+  type: mulu
+  level: 1
+hash: sha256:736b3136212708240df6e60d925cf24f82672ef86a2c52b8e491225e77e94156
