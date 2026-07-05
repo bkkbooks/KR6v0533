@@ -18,11 +18,11 @@ editions:
 - short: GA
 assets:
   parts:
-  - {seq: 0, filename: KR6v0533_000.yaml, hash: 'sha256:97b2551c6698f5d6fae1b41f64eb190bcf1686a5d85c3ba95b1e76b20ef71db0'}
-  - {seq: 1, filename: KR6v0533_001.yaml, hash: 'sha256:ec7a7ab91f14f30fe2c8fcc40777ea386353b78297c06e9c443fa8e719ca7234'}
+  - {seq: 0, filename: KR6v0533_000.yaml, hash: 'sha256:b2033ff5c8332d0c34668e9128a914117ede377017c8c523ceebfde357d39803'}
+  - {seq: 1, filename: KR6v0533_001.yaml, hash: 'sha256:b1f1edd127cfb8b3b88b8512cd6970aa16247319e08c17731fc759d1cc29a270'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0533_000.markers.yaml, hash: 'sha256:a04c2cfd1970d9ad7940e215f1528cf23d32ac3182aae94225357e60221350b0'}
-  - {seq: 1, role: markers, filename: assets/KR6v0533_001.markers.yaml, hash: 'sha256:20513752a7d80bd551dcb78726484fddcea5b0b8b9121d71d068038cb7a0c710'}
+  - {seq: 0, role: markers, filename: assets/KR6v0533_000.markers.yaml, hash: 'sha256:0096dc0938c0c75730959d98429c4ab5c5cdfa5e86f12f499af46027d1e912a7'}
+  - {seq: 1, role: markers, filename: assets/KR6v0533_001.markers.yaml, hash: 'sha256:0960868cacc46d532173fbfc22d93ece64c470a22178b121ae97039f715cd864'}
 table_of_contents:
 - ref:
     seq: 0
@@ -2694,7 +2694,4 @@ table_of_contents:
   label: 重修陸丞相祠堂碑記
   type: mulu
   level: 1
-hash: sha256:44b9bde4ec5672e27e1666ee43f688a23ef6b448954aa92762526ed2f1518783
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:932364828b85f4c73193ef0db8811e204b3edf9b232735d3c693d7377716d0a9
