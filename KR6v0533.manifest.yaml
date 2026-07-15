@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0533/v1
 canonical_location: https://kanripo.org/bkk/KR6v0533/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 鶴林寺志（釋明賢本）
   source:
@@ -18,11 +18,11 @@ editions:
 - short: GA
 assets:
   parts:
-  - {seq: 0, filename: KR6v0533_000.yaml, hash: 'sha256:b2033ff5c8332d0c34668e9128a914117ede377017c8c523ceebfde357d39803'}
-  - {seq: 1, filename: KR6v0533_001.yaml, hash: 'sha256:b1f1edd127cfb8b3b88b8512cd6970aa16247319e08c17731fc759d1cc29a270'}
+  - {seq: 0, filename: KR6v0533_000.yaml, hash: 'sha256:aa8db2fbf11d43e33fcb5d2fb97c902478fcd09145218aa9add0b0ddb9662670'}
+  - {seq: 1, filename: KR6v0533_001.yaml, hash: 'sha256:6889193908c4955249cdcc1e9d85238fa22d5dd791634d735b3fb6f3d82ed121'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0533_000.markers.yaml, hash: 'sha256:0096dc0938c0c75730959d98429c4ab5c5cdfa5e86f12f499af46027d1e912a7'}
-  - {seq: 1, role: markers, filename: assets/KR6v0533_001.markers.yaml, hash: 'sha256:0960868cacc46d532173fbfc22d93ece64c470a22178b121ae97039f715cd864'}
+  - {seq: 0, role: markers, filename: assets/KR6v0533_000.markers.yaml, hash: 'sha256:7f442b0bbdb4adcf99144f52df06ce5f4454663c5da954fa18a5f8f4fd43ac09'}
+  - {seq: 1, role: markers, filename: assets/KR6v0533_001.markers.yaml, hash: 'sha256:50e3aa02f3d27d6734a392ec9ccad7ae89076963eb35cf83812a0f19e65cfc97'}
 table_of_contents:
 - ref:
     seq: 0
@@ -2694,4 +2694,7 @@ table_of_contents:
   label: 重修陸丞相祠堂碑記
   type: mulu
   level: 1
-hash: sha256:932364828b85f4c73193ef0db8811e204b3edf9b232735d3c693d7377716d0a9
+hash: sha256:e8577af8fe67b99b15b7e51e809cec0223ec6a3f434f263a5d870bdebe23dced
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
