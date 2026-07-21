@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR6v0533/GA/v1/markers/0
 seq: 0
 markers:
-  front:
+  body:
   - {type: page-break, offset: 0, content: '', id: KR6v0533_GA_000-d002a, ed: GA, 'n': d002a, source_xml_id: GA043.0046.d002a}
   - {type: line-break, offset: 0, content: '', id: KR6v0533_GA_000-d002a01, ed: GA, 'n': d002a01}
   - {type: xml-element, offset: 0, content: '', id: pGA043pd002a0101, name: p, role: open, attrs: {'xml:id': pGA043pd002a0101, style: 'margin-left:0em;text-indent:2em;'}}
@@ -341,6 +341,5 @@ markers:
   - {type: line-break, offset: 1097, content: '', id: KR6v0533_GA_000-d014a09, ed: GA, 'n': d014a09}
   - {type: page-break, offset: 1097, content: '', id: KR6v0533_GA_000-d015a, ed: GA, 'n': d015a, source_xml_id: GA043.0046.d015a}
   - {type: line-break, offset: 1097, content: '', id: KR6v0533_GA_000-d015a01, ed: GA, 'n': d015a01}
-  body: []
   back: []
-hash: sha256:dc2e51bd3e82ebd9ec5f7470d1be8adc9eeb5a68fabf701039a773230c7ecf64
+hash: sha256:d545461676707ad189171999b2dff898582c82bddbf6c21af4e78de28404cc74

@@ -19,17 +19,17 @@ metadata:
     short: GA
 assets:
   parts:
-  - {seq: 0, filename: KR6v0533_000-GA.yaml, hash: 'sha256:b2033ff5c8332d0c34668e9128a914117ede377017c8c523ceebfde357d39803'}
+  - {seq: 0, filename: KR6v0533_000-GA.yaml, hash: 'sha256:580f66c15dae2187d10975bcd57c6edcd91a150a9ad00d2f8f6d1c4057bb6e1f'}
   - {seq: 1, filename: KR6v0533_001-GA.yaml, hash: 'sha256:b1f1edd127cfb8b3b88b8512cd6970aa16247319e08c17731fc759d1cc29a270'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0533_000-GA.markers.yaml, hash: 'sha256:dc2e51bd3e82ebd9ec5f7470d1be8adc9eeb5a68fabf701039a773230c7ecf64'}
+  - {seq: 0, role: markers, filename: assets/KR6v0533_000-GA.markers.yaml, hash: 'sha256:d545461676707ad189171999b2dff898582c82bddbf6c21af4e78de28404cc74'}
   - {seq: 1, role: markers, filename: assets/KR6v0533_001-GA.markers.yaml, hash: 'sha256:0e17cbd42230df0456687dd4a739d67998a74e79954cf99cb332adf0a7fbd130'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0533_GA_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 版本說明
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0533_GA_000-mulu-2
     span:
-    - front
+    - body
     - 547
     - 547
   label: 序
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0533_GA_000-mulu-3
     span:
-    - front
+    - body
     - 1046
     - 1046
   label: 目錄
@@ -2695,4 +2695,4 @@ table_of_contents:
   label: 重修陸丞相祠堂碑記
   type: mulu
   level: 1
-hash: sha256:736b3136212708240df6e60d925cf24f82672ef86a2c52b8e491225e77e94156
+hash: sha256:47363891087c3ed9663a186f36e2ab0e3698413876a5e4f1ea1b25d4add9f2a7
